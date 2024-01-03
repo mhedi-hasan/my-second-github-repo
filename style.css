@@ -1,14 +1,58 @@
 h1{
     color: rgba(128, 255, 0, 0.864);
-    background-color: rgb(49, 46, 41);
+    background-color: rgb(159, 153, 145);
     font-weight: 800;
     width: 500px;
     height: 45px;
     text-align: center;
     padding: 5px;
+    margin-left: 250px;
+    border-radius: 52px 9px;
 }
 p{
-    font-size: 1.4rem;
-    font-weight: 700;
-    background-color: rgb(188, 215, 160);
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.JavaScript{
+    border: 1.5px solid black;
+    height: 290px;
+    width: 550px;
+    font-size: 1.2rem;
+    background-color: rgba(247, 240, 231, 0.885);
+    font-weight: 200;
+    color: green;
+    margin-left: 250px;
+    text-align: center;
+    border-radius: 75px 8px 80px;
+    padding: 8px;
+
+}
+.JavaScript h1{
+    font-weight: 450;
+    margin-left: 28px;
+    color: brown;
+    background-color: rgb(252, 252, 156);
+    border-radius: 8px 45px;
+
+}
+#react{
+    border: 2px solid rgb(250, 151, 2);
+    height: 290px;
+    width: 550px;
+    font-size: 1.2rem;
+    background-color: rgb(240, 234, 234);
+    font-weight: 200;
+    color: rgb(248, 3, 199);
+    margin-left: 250px;
+    text-align: center;
+    border-radius: 85px 8px;
+    padding: 8px;
+    margin-top: 25px;
+}
+#react h1{
+    font-weight: 450;
+    margin-left: 28px;
+    color: rgb(247, 124, 0);
+    background-color: rgba(190, 217, 133, 0.624);
+    border-radius: 8px 45px;
 }

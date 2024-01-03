@@ -1,0 +1,14 @@
+h1{
+    color: rgba(128, 255, 0, 0.864);
+    background-color: rgb(49, 46, 41);
+    font-weight: 800;
+    width: 500px;
+    height: 45px;
+    text-align: center;
+    padding: 5px;
+}
+p{
+    font-size: 1.4rem;
+    font-weight: 700;
+    background-color: rgb(188, 215, 160);
+}
